@@ -1,0 +1,207 @@
+*{
+    padding: 0;
+    
+}
+body{
+    background-color: rgb(252, 246, 217);
+}
+#tagl{
+color: rgb(207, 75, 0);
+text-align: center;
+text-decoration: underline wavy;
+text-decoration-color: rgb(156, 198, 219);;
+font-size: x-large;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-style: italic;
+}
+#pic{
+    text-align: center;
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(156, 198, 219);
+    border-radius: 50%;
+    height: 300px;
+
+}
+#about{
+    color: rgb(207, 75, 0);
+    margin-right: 50px;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    font-weight: bolder;
+    font-size: large;
+}
+#skills{
+    color: rgb(207, 75, 0);
+    margin-right: 50px;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    font-weight: bolder;
+    font-size: large;
+}
+#projects{
+    color: rgb(207, 75, 0);
+    margin-right: 50px;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    font-weight: bolder;
+    font-size: large;
+}
+#contact{
+    color: rgb(207, 75, 0);
+    margin-right: 50px;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    font-weight: bolder;
+    font-size: large;
+}
+
+#intro{
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(207, 75, 0);
+}
+#aboutme{
+    width: 300px;
+    text-align: center;
+    background-color: rgb(194, 226, 250);
+    color: rgb(62, 30, 104);
+    border-radius: 10%;
+    border-style: dashed;
+    border-color: rgb(62, 30, 104);
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#Rabout{
+    float: right;
+    font-size: large;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    color: rgb(207, 75, 0);
+}
+#S1{
+    text-align: center;
+    background-color: rgb(248, 117, 170);
+    color: rgb(253, 237, 237);
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 20px;
+    border-style: dotted;
+}
+#S2{
+    text-align: center;
+    width: 150px;
+    background-color: rgb(255, 196, 196);
+    color: rgb(133, 14, 53);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border-style: dotted;
+}
+#S3{
+    text-align: center;
+    width: 150px;
+    background-color: rgb(255, 196, 196);
+    color: rgb(133, 14, 53);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border-style: dotted;
+}
+#S4{
+    text-align: center;
+    width: 150px;
+    background-color: rgb(255, 196, 196);
+    color: rgb(133, 14, 53);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border-style: dotted;
+}
+#Rskills{
+    float: right;
+    font-size: large;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    color: rgb(207, 75, 0);
+}
+#NewP{
+    display: flex;
+    gap: 50px;
+     position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+
+}
+#NewS{
+    display: flex;
+    gap: 20px;
+     position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#P1{
+   text-align: center;
+    width: 200px;
+    background-color: rgb(255, 196, 196);
+    color: rgb(133, 14, 53);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border-style: dotted; 
+}
+#P2{
+    text-align: center;
+    width: 200px;
+    background-color: rgb(255, 196, 196);
+    color: rgb(133, 14, 53);
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 20px;
+    border-style: dotted; 
+    height: 250px;
+}
+#Rprojects{
+    float: right;
+    font-size: large;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    color: rgb(207, 75, 0);
+}
+#one{
+    font-style: italic;
+    text-transform: capitalize;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(133, 14, 53);
+    text-align: center;
+}
+#Rcontact{
+    float: right;
+    font-size: large;
+    background-color: rgb(221, 186, 125);
+    border-color: rgb(156, 198, 219);
+    color: rgb(207, 75, 0);
+}
+#contactme{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(183, 116, 102);
+    text-align: center;
+    text-decoration: underline double;
+}
+#details{
+    font-size: large;
+    font-weight: bold;
+    color: rgb(154, 63, 63);
+    text-align: center;
+}
